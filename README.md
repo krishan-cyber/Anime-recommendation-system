@@ -34,7 +34,7 @@ GET-------------/anime/recommendations-----Get recommendations based on preferen
 /user/preference->takes favorite_anime and favorite_genre<br>
 /anime/search---->takes atmost two arguments name,genre
 
-#### postgre table schema
+#### Postgre table schema
 username-->VARCHAR(NOT NULL)<br>
 email----->VARCHAR(UNIQUE,NOT NULL)<br>
 password--->VARCHAR(NOT NULL)<br>
